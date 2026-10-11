@@ -1,0 +1,21 @@
+EMBERLINE 3.0 — EVOHACKS 2026 — CHECKLIST
+
+DEADLINE: Κυριακή 11/10/2026, ώρα Ελλάδας 21:59 (ασφαλής στόχος 21:30).
+SOURCE ZIP: EMBERLINE_3_0_SOURCE_GITHUB_READY.zip (αποσυμπίεσε & ανέβασε τα αρχεία σε PUBLIC GitHub repo).
+VIDEO: media/EMBERLINE_v3_EvoHacks_Demo.mp4 (2:48.8, μουσική και λεζάντες, actual v3 UI interacting with local FastAPI backend).
+DEVPOST: https://evohackathon2026.devpost.com/
+COPY: DEVPOST_SUBMISSION.md
+GUIDE: HOW_TO_SUBMIT_GR.md
+
+[ ] Public GitHub repository contains app/, tests/, README.md, requirements.txt
+[ ] Repo link works in incognito
+[ ] YouTube video public/unlisted, NOT private, link works in incognito
+[ ] Devpost description reflects EMBERLINE 3.0 + Scenario Lab
+[ ] Build access field points to actual FastAPI run instructions (no false cloud URL)
+[ ] Press final Submit, not only Save Draft
+[ ] Verify submitted project page before 21:59 Greece time
+
+TESTS: 143 passed (incl. 80 independent solver-oracle cases)
+SYNTHETIC MODEL VALIDATION: 78.6% 5-fold CV, 206 synthetic messages ONLY
+SCENARIO LAB: 8 -> 7 matches under 75% meal shortage. With Elena unavailable, 8 remains but 3 reassigned.
+NO field validation, real dispatch, rescues, volunteers, partnerships, or real personal data.
